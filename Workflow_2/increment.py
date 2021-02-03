@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 
 def increment(input_file, output_file):
